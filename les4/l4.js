@@ -14,7 +14,6 @@ console.log(circleArea(7))
 function area(h,r) {
 return  2 * 3.14 * r * (r +h)
 }
-
 console.log(area(12,23))
 // - створити функцію яка приймає масив та виводить кожен його елемент
 function print(arr) {
